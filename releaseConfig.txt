@@ -1,4 +1,4 @@
 Type:
 
-#Develop Signing
-Release Signing
+Develop Signing
+#Release Signing
